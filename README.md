@@ -1,1 +1,1 @@
-# Hours-Calculator
+A time calculator adds up the hours of your work shift, sleep, workout, entertainment and more. Plan your day with the [time calculator](https://www.thecalculadoradehoras.com/) or plan your organization project with it, it will never let you down. It is a simple calculator that calculates time accurately and easily in terms of hours and minutes.
